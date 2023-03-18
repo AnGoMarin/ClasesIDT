@@ -10,8 +10,8 @@
 
 - [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%202/Index.html)
 - [Ejercicio 2](https://angomarin.github.io/ClasesIDT/Clase%202/Enlace.html)
-- [Ejercicio 3](https://angomarin.github.io/ClasesIDT/Clase%202/Lista.html)
-- [Ejercicio 4](https://angomarin.github.io/ClasesIDT/Clase%202/Tabla.html)
+- [Ejercicio 3](https://angomarin.github.io/ClasesIDT/Clase%202/Listas.html)
+- [Ejercicio 4](https://angomarin.github.io/ClasesIDT/Clase%202/Tablas.html)
 
 ## Clase 3
 
