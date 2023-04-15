@@ -34,3 +34,8 @@
 - [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%206/Ejercicio1.html)
 - [Ejercicio 2](https://angomarin.github.io/ClasesIDT/Clase%206/Ejercicio2.html)
 
+## Clase 7
+
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%207/Ejercicio1.html)
+
+
