@@ -10,7 +10,7 @@ body{
 }
 
 .encabezado{
-    background-image: url(./images.jpeg);
+    background-image: url(./montañas.png);
     height: 128px;
     background-repeat: repeat-x;
     background-position: center;
@@ -60,7 +60,7 @@ body{
     letter-spacing: -.5px;
     font-size: 1.8em;
     color: #696969;
-    background: url() no-repeat left 4px;
+    background: url(./img08.jpeg) no-repeat left 4px;
 }
 
 .cajaderecha li a{
