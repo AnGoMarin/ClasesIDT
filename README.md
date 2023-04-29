@@ -42,5 +42,11 @@
 
 - [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%208/Ejercicio1.html)
 
+## Clase 9
+
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%209/Ejercicio1.html)
+- [Ejercicio 2](https://angomarin.github.io/ClasesIDT/Clase%209/Ejercicio2.html)
+
+
 
 
