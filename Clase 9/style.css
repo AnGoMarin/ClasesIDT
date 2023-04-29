@@ -7,6 +7,7 @@ body{
 .mont{
     color: white;
     font-family: Arial;
+    font-size: 48px;
 }
 
 .encabezado{
@@ -43,6 +44,7 @@ body{
 
 .cajaderecha ul{
     list-style: circle;
+    font-size: 12px;
 }
 
 .cajaderecha li{
@@ -50,6 +52,7 @@ body{
     margin: 0 30px;
     padding: 0px 0px 0px 15px;
     border-left: none;
+    font-size: 18px;
 }
 
 .cajaderecha h2{
@@ -66,7 +69,7 @@ body{
 .cajaderecha li a{
     color: #4D4D4D;
     padding-top: 20px;
-    font-size: 12px;
+    font-size: 18px;
     font-weight: bold;
 }
 
@@ -86,8 +89,7 @@ body{
     color: #3e3530;
 }
 
-.post p,
-.post div{
+.post p{
     padding: 0px 30px 20px 30px;
     padding-bottom: 20px;
     text-align: justify;
@@ -96,12 +98,27 @@ body{
 .fecha{
     font-weight: 600;
     font-style: italic;
+    padding: 0px 30px 20px 30px;
+    padding-bottom: 20px;
+    text-align: justify;
+}
+
+.autor{
+    font-weight: 600;
+    font-style: italic;
+    text-align: right;
+    align-content: right;
+    padding: 0px 30px 20px 30px;
+    padding-bottom: 20px;
 }
 
 .post a{
     color: #2e2e2e;
     text-decoration: none;
     font-weight: 600;
+    padding: 0px 30px 20px 30px;
+    padding-bottom: 20px;
+    text-align: justify;
 }
 
 .limpiar{
