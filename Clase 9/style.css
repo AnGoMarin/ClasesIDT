@@ -10,8 +10,8 @@ body{
     font-size: 48px;
 }
 
-.encabezado{
-    background-image: url(./montañas.png);
+.encabezado {
+    background-image: url(https://raw.githubusercontent.com/AnGoMarin/ClasesIDT/main/Clase%209/monta%C3%B1as.png);
     height: 128px;
     background-repeat: repeat-x;
     background-position: center;
