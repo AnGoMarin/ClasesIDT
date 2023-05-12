@@ -93,6 +93,7 @@ main{
 .cajaizquierda li{
     border-bottom: 1px solid #CCCCCC;
     padding: 8px;
+    list-style: none;
 }
 
 .cajaderecha{
@@ -125,6 +126,7 @@ main{
 
 .comentario:hover{
     text-decoration: none;
+    cursor: pointer;
 }
 
 footer{
