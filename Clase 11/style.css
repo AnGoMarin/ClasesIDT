@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+}
+
+.contenedor{
+    width: 600px;
+    border-style: none;
+    border-width: 0;
+    background-color: white;
+}
+
+:root{
+    --turquesa: #008080;
+    --crema: #ffebcd;
+}
+
+div{
+    border: 1px solid;
+    float: left;
+    height: 140px;
+    width: 140px;
+    margin: 10px 15px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    word-wrap: break-word;
+}
+
+h2{
+    margin: 55px 0 -30px 65px;
+    font-size: 22px;
+    white-space: pre;
+    text-align: center;
+    width: 400px;
+}
+
+.tobottom{
+    background: linear-gradient(to bottom, var(--turquesa), var(--crema));
+}
+
+.to45deg{
+    background: linear-gradient(45deg, var(--turquesa), var(--crema));
+}
+
+.to75deg{
+    background: linear-gradient(75deg, var(--turquesa), var(--crema));
+}
+
+.to180deg{
+    background: linear-gradient(180deg, var(--turquesa), var(--crema));
+}
+
+.to90deg{
+    background: linear-gradient(90deg, var(--turquesa), var(--crema));
+}
+
+.to0deg{
+    background: linear-gradient(0deg, var(--turquesa), var(--crema));
+}
+
+.to90red{
+    background: linear-gradient(90deg, red, blue, yellow);
+}
+
+.to90blue{
+    background: linear-gradient(90deg, red, blue 10px, yellow);
+}
+
+.to90yellow{
+    background: linear-gradient(90deg, blue, red 30px, yellow 120px, green);
+}
