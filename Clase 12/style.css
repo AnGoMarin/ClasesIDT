@@ -1,0 +1,139 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11;
+}
+
+#cabecera{
+    background-color: #33B4DE;
+    height: 150px;
+    line-height: 260px;
+}
+
+#menu{
+    padding: 10px;
+    background-color: black;
+}
+
+#menu ul{
+    margin-left: 250px;
+    word-spacing: 60px;
+    padding: 0 20px;
+}
+
+#menu a{
+    color: white;
+    text-decoration: none;
+}
+
+#menu a:hover{
+    text-decoration: underline;
+}
+
+#menu li{
+    display: inline-block;
+}
+
+.titulo{
+    color: white;
+    margin-left: 280px;
+    font-weight: normal;
+}
+
+.home{
+    background: #f7e031;
+    height: 30px;
+    width: 100px;
+    color: #FFFFFF;
+    padding-top: 5px;
+    text-align: center;
+}
+
+main{
+    width: 920px;
+    height: 500px;
+    padding: 20px 100px;
+}
+
+.izquierda{
+    width: 177px;
+    float: left;
+    padding-left: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #585D60;
+}
+
+.izquierda h2{
+    height: 26px;
+    margin: 0 0 10px 0;
+    padding: 12px 0 2px 7px;
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: normal;
+    color: #464F54;
+}
+
+.izquierda p{
+    margin: 0;
+    padding: 0px 10px;
+    line-height: 200%;
+    text-align: justify;
+}
+
+.izquierda ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    line-height: normal;
+}
+
+.izquierda li{
+    margin: 0;
+    padding: 7px 10px 10px 7px;
+    border-bottom: 1px dotted #83878c;
+}
+
+.izquierda a{
+    text-align: left;
+    text-decoration: none;
+    font-weight: normal;
+    color: #585D60;
+}
+
+.derecha{
+    width: 658px;
+    float: right;
+}
+
+.post{
+    border-bottom: 1px dotted #83878C;
+    margin-bottom: 25px;
+    line-height: 200%;
+}
+
+.post h2{
+    height: 30px;
+    color: #549900;
+    font-weight: normal;
+}
+
+.post a{
+    text-decoration: none;
+    color: #585D60;
+}
+
+.post p{
+    padding: 10px 0;
+    font-size: 14px;
+}
+
+.final{
+    background-color: #464F54;
+    height: 50px;
+    width: 100%;
+}
