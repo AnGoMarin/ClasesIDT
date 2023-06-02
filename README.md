@@ -56,5 +56,10 @@
 - [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2011/Ejercicio1.html)
 - [Ejercicio 2](https://angomarin.github.io/ClasesIDT/Clase%2011/Ejercicio1.html)
 
+## Clase 12
 
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2012/Ejercicio1.html)
 
+## Clase 13
+
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2013/Ejercicio1.html)
