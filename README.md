@@ -63,3 +63,7 @@
 ## Clase 13
 
 - [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2013/Ejercicio1.html)
+
+## Clase 14
+
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2014/Ejercicio1.html)
