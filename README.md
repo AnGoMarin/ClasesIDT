@@ -75,4 +75,4 @@
 
 ## Clase 17
 
-- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2017/Ejercicio1.html)
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2017/Ejercicios.html)
