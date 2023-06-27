@@ -67,3 +67,12 @@
 ## Clase 14
 
 - [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2014/Ejercicio1.html)
+
+## Clase 15
+
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2015/Ejercicio1.html)
+- [Ejercicio 2](https://angomarin.github.io/ClasesIDT/Clase%2015/Ejercicio2.html)
+
+## Clase 17
+
+- [Ejercicio 1](https://angomarin.github.io/ClasesIDT/Clase%2017/Ejercicio1.html)
